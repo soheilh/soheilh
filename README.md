@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working with C++, Pygame, and Django.
+- 💼 I have experience with Python, C/C++, Javascript, Django, Tensorflow, MATLAB, Vue.js, , Unity, Godot
+- 📫 How to reach me: soheilh105@gmail.com
 <!--
 **soheilh/soheilh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
