@@ -24,5 +24,5 @@
 ##
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=soheilh&show_icons=true&theme=rose_pine&hide_border=true&include_all_commits=true&rank_icon=github" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=soheilh&locale=en&mode=daily&theme=rose_pine&hide_border=true" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=soheilh&theme=rose_pine&hide_border=true" height="150" alt="streak graph" />
 </div>
